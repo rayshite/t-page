@@ -23,10 +23,10 @@ default: &default
 
 development:
   <<: *default
-  database: thanks-page-app_development
-  username: dev_rails
-  password: 0411280403
-  host: localhost
+  database: d50ev3bvqlf45a
+  username: xmzbfpzpmtqrub
+  password: 1115bd655faa07c06a7b90a9e86f82db0e43d07ddacbccd3c476af07f9ce0502
+  host: ec2-54-247-85-251.eu-west-1.compute.amazonaws.com
   port: 5432
 
   # The specified database role being used to connect to postgres.
